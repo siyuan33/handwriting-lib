@@ -1,3 +1,5 @@
+//  一个简单的事件总线
+
 class EventBus {
   constructor() {
     this._events = {}
