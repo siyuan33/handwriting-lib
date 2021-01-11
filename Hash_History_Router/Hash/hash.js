@@ -19,12 +19,12 @@ class Router {
 }
 const routers = [
   {
-    path: "/a",
-    content: `<p>aaaaa</p>`,
+    path: "/h",
+    content: `<p>hhhhh</p>`,
   },
   {
-    path: "/b",
-    content: `<p>bbbbbb</p>`,
+    path: "/s",
+    content: `<p>sssss</p>`,
   },
 ]
 
